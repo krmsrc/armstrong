@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "How to **level up** your business"
+  text: "Leave IT to us, while you focus on business."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+
